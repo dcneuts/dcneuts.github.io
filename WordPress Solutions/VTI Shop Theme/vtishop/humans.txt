@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Gwendolyn Galsworth, Ph.D. -- Owner and SME
+    Derek Neuts, MS -- Web Developer
+    Aurelia Navarro -- Content Editor
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Bootstrap, Sass
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Pinegrow, Bootstrap Blocks, Ekko Lightbox, Form Validation, Animsition
+    Font Awesome 5 Pro, jQuery Parallax, PHPMailer
