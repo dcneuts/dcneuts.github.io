@@ -1,0 +1,1 @@
+This project was the theme package for the Visual Thinking Inc. e-commerce store (sanitized) that was a hybrid build using the woocommerce.php templating method.  This project incorporated my own custom templating, PHP logic, along with some pages controlled by Visual Composer, with inner product loops modified by Toolset due to time restraints.
