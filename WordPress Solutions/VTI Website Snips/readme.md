@@ -1,0 +1,1 @@
+This project contains snippets from the Visual Thinking Inc main page, that's currently PHP-based (raw, no framework, built on Bootstrap), and shows my implementation of PHPMailer, some JS form validation techniques using a paid library, a document downloader/delivery method using PHP, and other solutions.
