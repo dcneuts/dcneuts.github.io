@@ -1,0 +1,1 @@
+This was an interesting project that was more PHP solution-based than it was traditional WordPress.  Snippets include some creative solutions that I had to come up with for the client with their from-scratch build.
